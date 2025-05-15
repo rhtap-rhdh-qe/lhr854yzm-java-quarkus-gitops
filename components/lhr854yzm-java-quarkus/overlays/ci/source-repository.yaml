@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lhr854yzm-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lhr854yzm-java-quarkus
